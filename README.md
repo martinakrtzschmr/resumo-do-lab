@@ -10,3 +10,10 @@ Este repositório contém o resumo das lições aprendidas durante o desenvolvim
 - **Reforço do compromisso mútuo** do desenvolvedor e do provedor de serviços da nuvem.
 - **Apresentadas diferenças de ferramentas** que podem não estar disponíveis dependendo do plano gratuito ou da região do usuário.
 - Significado do aviso de ferramenta "prévia" e que ela pode ser **tirada do ar sem aviso**.
+
+## Criando máquinas Virtuais na Azure
+
+- Apresentado o conceito de SLA e suas modalidades.
+- O SLA garante que deteminada ferramenta pode ficar certo tempo indisponível, ultrapassado esse tempo, é possível o ressarcimento do valor desse serviço.
+- Dicas para atendimento e respostas sobre como tratar com cliente quando um serviço é dado como indisponível.
+- Apresentadas estratégias, arquitetura, de usodo sistema sobre como usar e planejar essas ferramentas.
