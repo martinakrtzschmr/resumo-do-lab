@@ -17,3 +17,8 @@ Este repositório contém o resumo das lições aprendidas durante o desenvolvim
 - O SLA garante que deteminada ferramenta pode ficar certo tempo indisponível, ultrapassado esse tempo, é possível o ressarcimento do valor desse serviço.
 - Dicas para atendimento e respostas sobre como tratar com cliente quando um serviço é dado como indisponível.
 - Apresentadas estratégias, arquitetura, de usodo sistema sobre como usar e planejar essas ferramentas.
+
+LRS (armazenamento com redundância local)
+GRS (armazenamento com redundância geográfica)
+ZRS (armazenamento com redundância de zona)
+GZRS (armazenamento com redundância de zona geongráfica)
