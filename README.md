@@ -22,3 +22,9 @@ LRS (armazenamento com redundância local)
 GRS (armazenamento com redundância geográfica)
 ZRS (armazenamento com redundância de zona)
 GZRS (armazenamento com redundância de zona geongráfica)
+
+## Configurando uma instância de Banco de Dados na Azure
+
+- Apresentação da configuração de um banco de dados.
+- Reforço sobre os limites de IaaS, PaaS e SaaS.
+- Apresentação da calculadora ao final da configuração do banco de dados.
