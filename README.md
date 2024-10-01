@@ -19,8 +19,11 @@ Este repositório contém o resumo das lições aprendidas durante o desenvolvim
 - Apresentadas estratégias, arquitetura, de usodo sistema sobre como usar e planejar essas ferramentas.
 
 LRS (armazenamento com redundância local)
+
 GRS (armazenamento com redundância geográfica)
+
 ZRS (armazenamento com redundância de zona)
+
 GZRS (armazenamento com redundância de zona geongráfica)
 
 ## Configurando uma instância de Banco de Dados na Azure
