@@ -32,6 +32,14 @@ GZRS (armazenamento com redundância de zona geongráfica)
 - Reforço sobre os limites de IaaS, PaaS e SaaS.
 - Apresentação da calculadora ao final da configuração do banco de dados.
 
+## Construindo Arquiteturas no Azure
+
+* Apresentação dos data centers da Azure, com uma visita virtual para o data center do Brasil
+* Criação de grupos de recursos
+* Explicação do uso de marcações
+* Configurações do grupo de recursos
+* Criação da Vnet (rede virtual) associada ao grupo de recursos
+
 ## Configurando Recursos e Dimensionamentos em Máquinas Virtuais na Azure
 
 * Possibilidades de configurações de VMs "pré-configuradas"
