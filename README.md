@@ -31,3 +31,13 @@ GZRS (armazenamento com redundância de zona geongráfica)
 - Apresentação da configuração de um banco de dados.
 - Reforço sobre os limites de IaaS, PaaS e SaaS.
 - Apresentação da calculadora ao final da configuração do banco de dados.
+
+## Configurando Recursos e Dimensionamentos em Máquinas Virtuais na Azure
+
+* Possibilidades de configurações de VMs "pré-configuradas"
+* Configurações Gerais de Máquinas Virtuais:
+  * Configurações de Escala e estratégia de escalonamento automático
+  * Tamanhos de VMs para estratégias de máquinas
+  * Opçõdes de exclusão na VM para que outras configurações não fiquem ativas quando a VM for deletada
+  * Configuração de backup e comportamento
+  * Regras de Monitoramento 
