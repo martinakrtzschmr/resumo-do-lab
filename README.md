@@ -48,4 +48,8 @@ GZRS (armazenamento com redundância de zona geongráfica)
   * Tamanhos de VMs para estratégias de máquinas
   * Opçõdes de exclusão na VM para que outras configurações não fiquem ativas quando a VM for deletada
   * Configuração de backup e comportamento
-  * Regras de Monitoramento 
+  * Regras de Monitoramento
+ 
+## Entendendo sobre Segurança e Identidade na Azure
+
+
