@@ -52,4 +52,11 @@ GZRS (armazenamento com redundância de zona geongráfica)
  
 ## Entendendo sobre Segurança e Identidade na Azure
 
+## Dominando o armazenamento na Azure
 
+* Configurações de armazenamento, migração e Data box
+* Criação de uma conta de armazenamento -> files, queues, tables, blobs -> Contêineres, Compartilhamento de arquivos, Filas e Tabelas 
+* Proteção de dados -> Configurações de backup
+* O comando para teste utilizando a porta 445 pode não funcionar, pois é uma porta reservada para muitas operadoras.
+* Azure Migrate: Discovery and Assessment
+* Preços e simulação de Data box
