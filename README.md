@@ -60,3 +60,10 @@ GZRS (armazenamento com redundância de zona geongráfica)
 * O comando para teste utilizando a porta 445 pode não funcionar, pois é uma porta reservada para muitas operadoras.
 * Azure Migrate: Discovery and Assessment
 * Preços e simulação de Data box
+
+## Entendendo sobre Segurança e Identidade na Azure
+
+* Diretório no Azure, incluindo Microsoft Entra ID e o Microsoft Entra Domain Services
+* Métodos de autenticação no Azure: SSO, MFA e sem senha
+* Identidades externas e o acesso de convidado
+* Acesso Condicional do Entra 
