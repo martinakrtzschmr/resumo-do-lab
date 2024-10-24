@@ -49,8 +49,6 @@ GZRS (armazenamento com redundância de zona geongráfica)
   * Opçõdes de exclusão na VM para que outras configurações não fiquem ativas quando a VM for deletada
   * Configuração de backup e comportamento
   * Regras de Monitoramento
- 
-## Entendendo sobre Segurança e Identidade na Azure
 
 ## Dominando o armazenamento na Azure
 
@@ -67,3 +65,13 @@ GZRS (armazenamento com redundância de zona geongráfica)
 * Métodos de autenticação no Azure: SSO, MFA e sem senha
 * Identidades externas e o acesso de convidado
 * Acesso Condicional do Entra 
+
+## Otimizando Custos no Azure
+
+* Calculadora do TCO (Custo Total de Propriedade)
+ * Construção da simulação com diversas opções de hardware, serviços e cobertura de seguro de software
+* Calculadora de Preço
+ * Construção de estimativa de preço de uma VM - demonstrando a abrangencia de preço das configurações
+* Cost Management + Billing
+ * Alerta de custos e orçamentos
+ * Advisor recommendations 
