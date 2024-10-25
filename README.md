@@ -94,3 +94,11 @@ GZRS (armazenamento com redundância de zona geongráfica)
 * Apresentação de tópicos de automação - CLI/PS - Tasks - Export template
 * Apresentação do Bicep Playground - azure.github.io/bicep/
 * ARC - apresentação da adição de infraestrutura e serviços 
+
+## Monitoramento Inteligente com o Azure
+
+* Apontamento para os serviços Monitor, Advisor e Service Health para saber como estão as configurações da sua nuvem.
+* Insights dentro do Monitor, que cobre diversos aspectos como: Applications, VMs, Storage Accounts, Containers, Networks, etc
+* Trazer métricas e logs para entender o que esta acontecendo
+* Apresentação do Service Health com o mapa-múndi
+* Apresentação do Advisor - Recomendações de custo, segurança, performance, etc
