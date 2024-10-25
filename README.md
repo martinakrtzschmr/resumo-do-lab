@@ -74,4 +74,15 @@ GZRS (armazenamento com redundância de zona geongráfica)
  * Construção de estimativa de preço de uma VM - demonstrando a abrangencia de preço das configurações
 * Cost Management + Billing
  * Alerta de custos e orçamentos
- * Advisor recommendations 
+ * Advisor recommendations
+
+## Gerenciando Politicas em Acessos Azure
+
+* Apresentação do Portal de Confiança do Serviço
+ * Recursos para o Brasil - BACEN
+ * Recursos para outros países
+* Bloqueios a nível de Resource Group
+* Apresentação do Microsoft Purview
+ * Criação de conta
+ * Apresentação do Novo Portal do Purview e algumas ferramentas
+* Policies, onde acessar e como funcionam
