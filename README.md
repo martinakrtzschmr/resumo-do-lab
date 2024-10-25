@@ -86,3 +86,11 @@ GZRS (armazenamento com redundância de zona geongráfica)
  * Criação de conta
  * Apresentação do Novo Portal do Purview e algumas ferramentas
 * Policies, onde acessar e como funcionam
+
+## Ferramentas de Implantação na Azure
+
+* Criação de recursos através do portal Azure
+* Execução do Cloud Shell
+* Apresentação de tópicos de automação - CLI/PS - Tasks - Export template
+* Apresentação do Bicep Playground - azure.github.io/bicep/
+* ARC - apresentação da adição de infraestrutura e serviços 
